@@ -1,0 +1,57 @@
+body {
+  font-family: Arial;
+}
+.question {
+  margin-bottom: 60px;
+}
+.question .description {
+  font-size: 18px;
+}
+
+/********************************
+ * QUESTION 5.
+ *******************************/
+ .q5-wrapper {
+  background: #efefef;
+}
+.q5-wrapper .q5-block {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background: #333;
+}
+/********************************
+ * jawaban nomor 5.
+ *******************************/
+ .q5-wrapper .q4-block {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background: #00ff00;
+}
+
+/* Add your code after this line */
+
+/********************************
+ * QUESTION 6.
+ *******************************/
+
+/********************************
+ * jawaban nomor 6.
+ *******************************/
+ /* Add your code after this line */
+ .header6 {
+  width: 100vw;
+  height: 20vh;
+  background-color: #f00;
+  color: #FFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.file-name {
+  color: #00F;
+  font-weight: bold;
+  text-transform: uppercase;
+}
